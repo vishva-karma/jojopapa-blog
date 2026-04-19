@@ -2,6 +2,7 @@ name = "jojopapa-blog"
 compatibility_date = "2026-04-19"
 
 [build]
+command = "chmod +x build.sh"
 command = "./build.sh"
 
 [assets]
