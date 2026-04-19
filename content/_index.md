@@ -1,0 +1,1 @@
+Here we write lot of topics related to software, technology, science, leadership and philosophy. This is the home page for my blog posts
